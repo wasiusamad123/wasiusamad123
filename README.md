@@ -2,6 +2,8 @@
 
 "I am an accomplished Full-Stack Software Developer with a mastery of advanced programming languages. I possess a strong work ethic and am committed to continuous learning, having successfully contributed to numerous projects that have honed my skills and expanded my knowledge base. My expertise extends beyond computer programming languages.
 
+MY SKILLS
+
 Experienced in HTML || SASS/TAILWIND/CSS/Bootstrap || PHP || OBJECT ORIENTED (OOP) || LARAVEL 9/API || AJAX || MYSQL DATABASE || JAVASCRIPT/TYPESCRIPT....
 
 🔭 A Student of GigsTech Solutions & Consults
