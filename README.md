@@ -4,7 +4,7 @@
 
 Experienced in HTML || SASS/TAILWIND/CSS/Bootstrap || PHP || OBJECT ORIENTED (OOP) || LARAVEL 9/API || AJAX || MYSQL DATABASE || JAVASCRIPT/TYPESCRIPT....
 
-[![MY Skills](https://img.shields.io/badge/Skills-<b>JavaScript</b>%20PHP%20TypeScript%20React%20HTML5%20CSS3%20Sass%20TailwindCSS%20Bootstrap5%20Material%20UI%20Redux%20Webpack%20MySQL%20Firebase%20Heroku%20Figma%20Sketch%20Photoshop-green)](https:/haywhy)
+MY SKILLS
 
 https://img.shields.io/badge/Skills-JavaScript%20PHP%20TypeScript%20React%20HTML5%20CSS3%20Sass%20TailwindCSS%20Bootstrap5%20Material%20UI%20Redux%20Webpack%20MySQL%20Firebase%20Heroku%20Figma%20Sketch%20Photoshop-green
 
