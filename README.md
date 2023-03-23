@@ -4,24 +4,9 @@
 
 Experienced in HTML || SASS/TAILWIND/CSS/Bootstrap || PHP || OBJECT ORIENTED (OOP) || LARAVEL 9/API || AJAX || MYSQL DATABASE || JAVASCRIPT/TYPESCRIPT....
 
-MY Skills
-JavaScript PHP TypeScript React HTML5 CSS3 Sass TailwindCSS Bootstrap5 Material UI Redux Webpack MySQL Firebase Heroku Figma Sketch Photoshop
+[![MY Skills](https://img.shields.io/badge/Skills-<b>JavaScript</b>%20PHP%20TypeScript%20React%20HTML5%20CSS3%20Sass%20TailwindCSS%20Bootstrap5%20Material%20UI%20Redux%20Webpack%20MySQL%20Firebase%20Heroku%20Figma%20Sketch%20Photoshop-green)](https:/haywhy)
 
-  
-<!--
-**wasiusamad123/wasiusamad123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on  ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+https://img.shields.io/badge/Skills-JavaScript%20PHP%20TypeScript%20React%20HTML5%20CSS3%20Sass%20TailwindCSS%20Bootstrap5%20Material%20UI%20Redux%20Webpack%20MySQL%20Firebase%20Heroku%20Figma%20Sketch%20Photoshop-green
 
 🔭 A Student of GigsTech Solutions & Consults
 
@@ -35,7 +20,7 @@ Here are some ideas to get you started:
 
 💛 What you Love doing: I love working in a team and Build Interactive Projects 👊
 
-Sport: 🏀 Football 🎾 Tennis
+Sport: :football: Football 🎾 Tennis
 
 😄 Pronouns: He/She
 
