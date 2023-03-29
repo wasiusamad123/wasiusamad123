@@ -6,9 +6,9 @@ Experienced in HTML || SASS/TAILWIND/CSS/Bootstrap || PHP || OBJECT ORIENTED (OO
 
 MY SKILLS
 
-![python](python.jfif) ![Css](css.png) ![Bootstrap](download.jpg) ![Typescript](download.png) 
- ![Laravel](images.jpg) ![javascript](javascript.png) ![php](php.png) 
-![Ajax](ajax.png) ![Html](html.png) 
+![python](python.jfif) ![Css](scss.png) ![Bootstrap](download.jpg) ![Typescript](download.png) 
+ ![Laravel](images.jpg) ![javascript](javascript.png) ![php](php.png) ![Oop](oop.png)
+![Ajax](ajax.png) ![Html](html.png) ![Css](css.png)
 
 🔭 A Student of GigsTech Solutions & Consults
 
