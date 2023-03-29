@@ -6,7 +6,7 @@ MY SKILLS
 
 Experienced in HTML || SASS/TAILWIND/CSS/Bootstrap || PHP || OBJECT ORIENTED (OOP) || LARAVEL 9/API || AJAX || MYSQL DATABASE || JAVASCRIPT/TYPESCRIPT...
 
-![My Image](images/download.png)
+![My Image](download.png)
 
 🔭 A Student of GigsTech Solutions & Consults
 
