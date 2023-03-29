@@ -43,7 +43,7 @@ Experienced in HTML || SASS/TAILWIND/CSS/Bootstrap || PHP || OBJECT ORIENTED (OO
 
 🛠 I’m currently learning Laravel 9
 
-👯 I’m looking to collaborate on Blog
+👯 I’m looking to collaborate on any project
 
 💬 Ask me about Laravel or any tech related stuff.
 
