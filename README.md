@@ -4,7 +4,7 @@
 
 Experienced in HTML || SASS/TAILWIND/CSS/Bootstrap || PHP || OBJECT ORIENTED (OOP) || LARAVEL 9/API || AJAX || MYSQL DATABASE || JAVASCRIPT/TYPESCRIPT...
 
-<h1>MY SKILLS</h1>
+<h3>MY SKILLS</h3>
 
 ![python](python.jfif)  ![Laravel](images.jpg)  ![Bootstrap](download.jpg)  ![Typescript](download.png) 
                ![javascript](javascript.png)  ![php](php.png)  ![Oop](oop.jfif)  ![Ajax](ajax.png)
