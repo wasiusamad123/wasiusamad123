@@ -27,9 +27,13 @@ Experienced in HTML || SASS/TAILWIND/CSS/Bootstrap || PHP || OBJECT ORIENTED (OO
 <a href="https://twitter.com/Wasiu_Somod" rel="nofollow">
 <p dir="auto"><img src="https://user-images.githubusercontent.com/72305068/189481382-b4d460ca-70ad-4e42-a6ea-f741d1bac749.svg" alt="68747470733a2f2f696d672e736869656c64732e696f2f62616467652f747769747465722d2532333030616365652e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d74776974746572266c6f676f436f6c6f723d776869746526616c743d74776974746572" style="max-width: 100%;"></p>
 </a>
-<!-- <a href="https://www.youtube.com/@Developer-Somod" rel="nofollow">
-<p dir="auto"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-youtube" viewBox="0 0 16 16"> <path d="M8.051 1.999h.089c.822.003 4.987.033 6.11.335a2.01 2.01 0 0 1 1.415 1.42c.101.38.172.883.22 1.402l.01.104.022.26.008.104c.065.914.073 1.77.074 1.957v.075c-.001.194-.01 1.108-.082 2.06l-.008.105-.009.104c-.05.572-.124 1.14-.235 1.558a2.007 2.007 0 0 1-1.415 1.42c-1.16.312-5.569.334-6.18.335h-.142c-.309 0-1.587-.006-2.927-.052l-.17-.006-.087-.004-.171-.007-.171-.007c-1.11-.049-2.167-.128-2.654-.26a2.007 2.007 0 0 1-1.415-1.419c-.111-.417-.185-.986-.235-1.558L.09 9.82l-.008-.104A31.4 31.4 0 0 1 0 7.68v-.123c.002-.215.01-.958.064-1.778l.007-.103.003-.052.008-.104.022-.26.01-.104c.048-.519.119-1.023.22-1.402a2.007 2.007 0 0 1 1.415-1.42c.487-.13 1.544-.21 2.654-.26l.17-.007.172-.006.086-.003.171-.007A99.788 99.788 0 0 1 7.858 2h.193zM6.4 5.209v4.818l4.157-2.408L6.4 5.209z"/> </svg></p>
-</a> -->
+
+
+<button class="youtube-btn">
+  <i class="fab fa-youtube"></i>
+ <a href="https://www.youtube.com/@Developer-Somod" rel="nofollow">Youtube</a>
+</button>
+
 
 <a href="Mailto:wasiusamad123@gmail.com">
 <p dir="auto"><img src="https://user-images.githubusercontent.com/72305068/189481392-4617ce4b-67ff-43d4-af43-e6079fa7ca15.svg" alt="68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476d61696c2d4431343833363f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465" style="max-width: 100%;"></p>
