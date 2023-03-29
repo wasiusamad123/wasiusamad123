@@ -6,7 +6,7 @@ Experienced in HTML || SASS/TAILWIND/CSS/Bootstrap || PHP || OBJECT ORIENTED (OO
 
 MY SKILLS
 
-![Php](download.jpg) ![Laravel](download.png) ![Laravel](images.png)
+![Php](download.jpg) ![Laravel](download.png) ![Laravel](images.jpg)
 
 🔭 A Student of GigsTech Solutions & Consults
 
