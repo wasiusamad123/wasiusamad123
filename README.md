@@ -27,6 +27,3 @@ Sport: :football: Football 🎾 Tennis
 😄 Pronouns: He/She
 
 ⚡😊 Fun fact: I spend 12 hours developing a 3 Days Project.
-
-My top languages
-ADVANTAGE! ADVANTAGE!! ADVANTAGE!!!
