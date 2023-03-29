@@ -29,10 +29,10 @@ Experienced in HTML || SASS/TAILWIND/CSS/Bootstrap || PHP || OBJECT ORIENTED (OO
 </a>
 
 
-<button class="youtube-btn">
+<!-- <button class="youtube-btn">
   <i class="fab fa-youtube"></i>
  <a href="https://www.youtube.com/@Developer-Somod" rel="nofollow">Youtube</a>
-</button>
+</button> -->
 
 
 <a href="Mailto:wasiusamad123@gmail.com">
