@@ -1,4 +1,4 @@
-### Hi👋 I'm WASIU SAMAD AYOMIDE
+### Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"> My name is Wasiu Samad Ayomide
 
 "I am an accomplished Full-Stack Software Developer with a mastery of advanced programming languages. I possess a strong work ethic and am committed to continuous learning, having successfully contributed to numerous projects that have honed my skills and expanded my knowledge base. My expertise extends beyond computer programming languages."
 
