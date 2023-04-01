@@ -41,8 +41,6 @@
 
 🔭 A Student of GigsTech Solutions & Consults
 
-🔭 I’m currently on Laravel
-
 🛠 I’m currently learning Laravel 9
 
 👯 I’m looking to collaborate on any project
