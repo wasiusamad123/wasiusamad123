@@ -30,9 +30,7 @@ My name is Wasiu Samad Ayomide, and I'm an accomplished full-stack software deve
   <a href="Mailto:wasiusamad123@gmail.com">
     <img src="https://user-images.githubusercontent.com/72305068/189481392-4617ce4b-67ff-43d4-af43-e6079fa7ca15.svg" alt="" style="max-width: 100%;">
   </a>
-🎥 Check out my YouTube channel: www.youtube.com/@Developer-Somod 📺
-
-
+[![YouTube](https://user-images.githubusercontent.com/72305068/189481392-4617ce4b-67ff-43d4-af43-e6079fa7ca15.svg)](https://www.youtube.com/@Developer-Somod)
 </div>
 
 <h2>About Me</h2>
