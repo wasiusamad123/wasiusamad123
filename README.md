@@ -1,5 +1,4 @@
-### Hi there! <a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" data-target="animated-image.originalLink"><img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
-<!--<img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="" style="max-width: 100%; height: auto; display: block; margin: 0 auto;" data-target="animated-image.originalImage">-->
+### Hi there! <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="" style="max-width: 100%; height: auto; display: block; margin: 0 auto;">
 
 My name is Wasiu Samad Ayomide, and I'm an accomplished full-stack software developer with expertise in advanced programming languages. I'm a dedicated and hardworking professional who is committed to continuous learning and has successfully contributed to numerous projects that have honed my skills and expanded my knowledge base.
 
