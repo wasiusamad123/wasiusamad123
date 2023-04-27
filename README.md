@@ -32,20 +32,12 @@ My name is Wasiu Samad Ayomide, and I'm an accomplished full-stack software deve
   </a>
 </div>
 
-<h2 dir="auto"><a id="user-content-technical-skills-" class="anchor" aria-hidden="true" href="#"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>About Me<g-emoji class="g-emoji" alias="hammer_and_wrench" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f6e0.png"></h2>
-
-🔭 A Student of GigsTech Solutions & Consults
-
-🛠 I’m currently learning Laravel 9
-
-👯 I’m looking to collaborate on any project
-
-💬 Ask me about Laravel or any tech related stuff.
-
-💛 What you Love doing: I love working in a team and Build Interactive Projects 👊
-
-Sport: :football: Football 🎾 Tennis
-
-😄 Pronouns: He/She
-
-⚡😊 Fun fact: I spend 12 hours developing a 3 Days Project.
+<h2>About Me</h2>
+<p>🔭 A student at GigsTech Solutions & Consults.</p>
+<p>🛠 Currently learning Laravel 9.</p>
+<p>👯 Looking to collaborate on any project.</p>
+<p>💬 Ask me about Laravel or any tech-related stuff.</p>
+<p>💛 I love working in a team and building interactive projects.</p>
+<p>Sport: ⚽️ Football 🎾 Tennis</p>
+<p>😄 Pronouns: He/She</p>
+<p>⚡😊 Fun fact: I spent 12 hours developing a 3-day project.</p>
