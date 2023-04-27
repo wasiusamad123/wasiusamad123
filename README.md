@@ -30,10 +30,6 @@ My name is Wasiu Samad Ayomide, and I'm an accomplished full-stack software deve
   <a href="Mailto:wasiusamad123@gmail.com">
     <img src="https://user-images.githubusercontent.com/72305068/189481392-4617ce4b-67ff-43d4-af43-e6079fa7ca15.svg" alt="" style="max-width: 100%;">
   </a>
-  <a href="https://www.youtube.com/@Developer-Somod">
-  <img src="https://www.youtube.com/about/static/svgs/icons/brand-resources/YouTube-logo-full_color_light.svg" alt="YouTube" style="max-width:100%;">
-</a>
-
 </div>
 
 <h2>About Me</h2>
