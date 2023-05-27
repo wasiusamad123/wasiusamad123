@@ -18,6 +18,17 @@ My name is Wasiu Samad Ayomide, and I'm an accomplished full-stack software deve
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=ffffff)
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=ffffff)
 
+<pre>{
+  <span class="pl-ent">"job"</span>:      <span class="pl-s"><span class="pl-pds">"</span>Developer<span class="pl-pds">"</span></span>,
+  <span class="pl-ent">"birthday"</span>: <span class="pl-s"><span class="pl-pds">"</span>1987-11-27<span class="pl-pds">"</span></span>,
+  <span class="pl-ent">"country"</span>:  <span class="pl-s"><span class="pl-pds">"</span>Germany<span class="pl-pds">"</span></span>,
+  <span class="pl-ent">"city"</span>:     <span class="pl-s"><span class="pl-pds">"</span>Voerde (NRW)<span class="pl-pds">"</span></span>,
+  <span class="pl-ent">"stack"</span>:    [<span class="pl-s"><span class="pl-pds">"</span>PHP<span class="pl-pds">"</span></span>, <span class="pl-s"><span class="pl-pds">"</span>MySQL<span class="pl-pds">"</span></span>, <span class="pl-s"><span class="pl-pds">"</span>HTML<span class="pl-pds">"</span></span>, <span class="pl-s"><span class="pl-pds">"</span>CSS<span class="pl-pds">"</span></span>, <span class="pl-s"><span class="pl-pds">"</span>JS<span class="pl-pds">"</span></span>, <span class="pl-s"><span class="pl-pds">"</span>ReactJS<span class="pl-pds">"</span></span>, <span class="pl-s"><span class="pl-pds">"</span>React Native<span class="pl-pds">"</span></span>, <span class="pl-s"><span class="pl-pds">"</span>jQuery<span class="pl-pds">"</span></span>, <span class="pl-s"><span class="pl-pds">"</span>Bash<span class="pl-pds">"</span></span>, <span class="pl-s"><span class="pl-pds">"</span>...<span class="pl-pds">"</span></span>],
+  <span class="pl-ent">"interest"</span>: [<span class="pl-s"><span class="pl-pds">"</span>Clean Code<span class="pl-pds">"</span></span>, <span class="pl-s"><span class="pl-pds">"</span>Testing<span class="pl-pds">"</span></span>, <span class="pl-s"><span class="pl-pds">"</span>Static Code Analysis<span class="pl-pds">"</span></span>, <span class="pl-s"><span class="pl-pds">"</span>Linux<span class="pl-pds">"</span></span>, <span class="pl-s"><span class="pl-pds">"</span>...<span class="pl-pds">"</span></span>], 
+  <span class="pl-ent">"quote"</span>:    <span class="pl-s"><span class="pl-pds">"</span>There is nothing good unless you do it. - Erich Kästner<span class="pl-pds">"</span></span>
+  <span class="pl-ent">"extra"</span>:    <span class="pl-s"><span class="pl-pds">"</span>Dad of two beautiful daughters.<span class="pl-pds">"</span></span>
+}</pre>
+
 
 <h2>Let's Get Connected</h2>
 <div>
