@@ -33,7 +33,7 @@ My name is Wasiu Samad Ayomide, and I'm an accomplished full-stack software deve
 <h2>Let's Get Connected</h2>
 <div>
   <a href="https://www.linkedin.com/in/wasiu-samad-a97a59234/" rel="nofollow">
-    <img src="https://user-images.githubusercontent.com/72305068/189481583-9c515c9b-27d1-4acd-be09-30e1fa752867.svg" alt="" style="max-width: 100%;">
+    <img src="https://user-images.githubusercontent.com/72305068/189481583-9c515c9b-27d1-4acd-be09-30e1fa752867.svg" alt="linkedin" style="max-width: 100%;">
   </a>
   <a href="https://twitter.com/Wasiu_Somod" rel="nofollow">
     <img src="https://user-images.githubusercontent.com/72305068/189481382-b4d460ca-70ad-4e42-a6ea-f741d1bac749.svg" alt="" style="max-width: 100%;">
