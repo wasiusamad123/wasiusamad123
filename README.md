@@ -2,7 +2,7 @@
 
 My name is Wasiu Samad Ayomide, and I'm an accomplished full-stack software developer with expertise in advanced programming languages. I'm a dedicated and hardworking professional who is committed to continuous learning and has successfully contributed to numerous projects that have honed my skills and expanded my knowledge base.
 
-### Technical Skills 🛠️
+#### Technical Skills 🛠️
 
 - Web development using HTML5, CSS3, Sass, and Bootstrap5
 - Strong proficiency in JavaScript and TypeScript
