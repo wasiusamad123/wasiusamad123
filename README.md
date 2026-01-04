@@ -45,7 +45,7 @@ My name is Wasiu Samad Ayomide. I'm an accomplished full-stack software develope
 
 <h2>About Me</h2>
 <p>🔭 A student at GigsTech Solutions & Consults.</p>
-<p>🛠 Currently writing Laravel 12.</p>
+<p>🛠 Currently writing Vue JS</p>
 <p>👯 Looking to collaborate on any project.</p>
 <p>💬 Ask me about Laravel or any tech-related stuff.</p>
 <p>💛 I love working in a team and building interactive projects.</p>
