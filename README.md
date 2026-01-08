@@ -51,4 +51,4 @@ My name is Wasiu Samad Ayomide. I'm an accomplished full-stack software develope
 <p>💛 I love working in a team and building interactive projects.</p>
 <p>Sport: ⚽️ Football 🎾 Tennis</p>
 <p>😄 Pronouns: He/She</p>
-<p>⚡😊 Fun fact: I spent 12 hours developing a 5-days project.</p>
+<p>⚡😊 Fun fact: I spent 5 days developing a 1-month project.</p>
