@@ -20,7 +20,7 @@ My name is Wasiu Samad Ayomide. I'm an accomplished full-stack software develope
 
 <pre>{
   <span class="pl-ent">"Profession"</span>: <span class="pl-s"><span class="pl-pds">"</span>Software Developer<span class="pl-pds">"</span></span>,
-  <span class="pl-ent">"birthday"</span>: <span class="pl-s"><span class="pl-pds">"</span>2004-11-10<span class="pl-pds">"</span></span>,
+  <!--span class="pl-ent">"birthday"</span>: <span class="pl-s"><span class="pl-pds">"</span>2004-11-10<span class="pl-pds">"</span></span>, -->
   <span class="pl-ent">"country"</span>:  <span class="pl-s"><span class="pl-pds">"</span>Nigeria<span class="pl-pds">"</span></span>,
   <span class="pl-ent">"city"</span>:     <span class="pl-s"><span class="pl-pds">"</span>Oyo State<span class="pl-pds">"</span></span>,
   <span class="pl-ent">"stack"</span>:    [<span class="pl-s"><span class="pl-pds">"</span>PHP<span class="pl-pds">"</span></span>, <span class="pl-s"><span class="pl-pds">"</span>MySQL<span class="pl-pds">"</span></span>, <span class="pl-s"><span class="pl-pds">"</span>HTML5<span class="pl-pds">"</span></span>, <span class="pl-s"><span class="pl-pds">"</span>CSS3<span class="pl-pds">"</span></span>, <span class="pl-s"><span class="pl-pds">"</span>JS<span class="pl-pds">"</span></span>, <span class="pl-s"><span class="pl-pds">"</span>TS<span class="pl-pds">"</span></span>, <span class="pl-s"><span class="pl-pds">"</span>PHP<span class="pl-pds">"</span></span>, <span class="pl-s"><span class="pl-pds">"</span>OOP<span class="pl-pds">"</span></span>, <span class="pl-s"><span class="pl-pds">"</span>Laravel<span class="pl-pds">"</span></span>, <span class="pl-s"><span class="pl-pds">"</span>...<span class="pl-pds">"</span></span>],
