@@ -28,6 +28,9 @@ My name is Wasiu Samad Ayomide. I'm an accomplished full-stack software develope
   <span class="pl-ent">"Extra"</span>:    <span class="pl-s"><span class="pl-pds">"</span>Graduate of AE-FUNAI.<span class="pl-pds">"</span></span>
 }</pre>
 
+<a href="https://github.com/antonkomarev/github-profile-views-counter">
+    <img src="https://camo.githubusercontent.com/b4dedc18c070a23116f19c6b55053f1e06d9bd57ec06d4812f07e4782874ed08/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d616e746f6e6b6f6d61726576267374796c653d666f722d7468652d6261646765" data-canonical-src="https://komarev.com/ghpvc/?username=antonkomarev&amp;style=for-the-badge" style="max-width: 100%;">
+</a>
 
 <h2>Let's Get Connected</h2>
 <div>
