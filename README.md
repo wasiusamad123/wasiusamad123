@@ -28,14 +28,6 @@ My name is Wasiu Samad Ayomide. I'm an accomplished full-stack software develope
   <span class="pl-ent">"Extra"</span>:    <span class="pl-s"><span class="pl-pds">"</span>Graduate of AE-FUNAI.<span class="pl-pds">"</span></span>
 }</pre>
 
-<a href="https://github.com/wasiusamad123">
-  <img 
-    src="https://komarev.com/ghpvc/?username=wasiusamad123&style=for-the-badge" 
-    alt="Profile Views"
-  />
-</a>
-
-
 <h2>Let's Get Connected</h2>
 <div>
   <a href="https://www.linkedin.com/in/wasiu-samad-a97a59234/" rel="nofollow">
@@ -46,6 +38,9 @@ My name is Wasiu Samad Ayomide. I'm an accomplished full-stack software develope
   </a>
   <a href="Mailto:wasiusamad123@gmail.com">
     <img src="https://user-images.githubusercontent.com/72305068/189481392-4617ce4b-67ff-43d4-af43-e6079fa7ca15.svg" alt="" style="max-width: 100%;">
+  </a>
+  <a href="https://github.com/wasiusamad123">
+    <img src="https://komarev.com/ghpvc/?username=wasiusamad123&style=for-the-badge" alt="Profile Views"/>
   </a>
 </div>
 
